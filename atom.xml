@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Leon&#39;s Blog</title>
-  
+  <subtitle>我的架构路</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.0d1y.com/"/>
